@@ -1,0 +1,78 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Management</title>
+    <link rel="stylesheet" href="css/Style.css">
+</head>
+<body>
+    <h1>Contact Management</h1>
+    <button id="addNewContactButton" onclick="openCreateContactModal()">Add New Contact</button>
+
+    <div id="createContactModal" class="modal">
+        <div class="modal-content">
+            <span class="close" onclick="closeCreateContactModal()">&times;</span>
+            <h2>Create New Contact</h2>
+            <p id="error-message" style="color: red;"></p>
+            <form id="createForm">
+                <label for="name">Name:</label>
+                <input type="text" id="name" required>
+                <br>
+                <label for="mobilePhone">Mobile Phone:</label>
+                <input type="text" id="mobilePhone" required>
+                <br>
+                <label for="jobTitle">Job Title:</label>
+                <input type="text" id="jobTitle">
+                <br>
+                <label for="birthDate">Birth Date:</label>
+                <input type="date" id="birthDate">
+                <br>
+                <button type="button" onclick="createContactFromModal()">Create Contact</button>
+            </form>
+        </div>
+    </div>
+
+    <div id="editContactModal" class="modal">
+        <div class="modal-content">
+            <span class="close" onclick="closeEditContactModal()">&times;</span>
+            <h2>Edit Contact</h2>
+            <p id="edit-error-message" style="color: red;"></p>
+            <form id="editForm">
+                <label for="editName">Name:</label>
+                <input type="text" id="editName" required>
+                <br>
+                <label for="editMobilePhone">Mobile Phone:</label>
+                <input type="text" id="editMobilePhone" required>
+                <br>
+                <label for="editJobTitle">Job Title:</label>
+                <input type="text" id="editJobTitle">
+                <br>
+                <label for="editBirthDate">Birth Date:</label>
+                <input type="date" id="editBirthDate">
+                <br>
+                <button type="button" onclick="updateContact()" id="updateContactButton">Update Contact</button>
+            </form>
+        </div>
+    </div>
+
+    <div id="contactList">
+        <h2>Contact List</h2>
+        <table id="contactsTable">
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Mobile Phone</th>
+                    <th>Job Title</th>
+                    <th>Birth Date</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tbody id="contacts"></tbody>
+        </table>
+    </div>
+
+    <script src="js/Main.js" defer></script>
+</body>
+</html>
+

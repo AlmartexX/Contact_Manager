@@ -1,0 +1,24 @@
+C:\Users\ymkaa\Documents\work\Новая папка\Contact\Contact.DAL\bin\Debug\net6.0\Contact.DAL.deps.json
+C:\Users\ymkaa\Documents\work\Новая папка\Contact\Contact.DAL\bin\Debug\net6.0\Contact.DAL.dll
+C:\Users\ymkaa\Documents\work\Новая папка\Contact\Contact.DAL\bin\Debug\net6.0\Contact.DAL.pdb
+C:\Users\ymkaa\Documents\work\Новая папка\Contact\Contact.DAL\obj\Debug\net6.0\Contact.DAL.csproj.AssemblyReference.cache
+C:\Users\ymkaa\Documents\work\Новая папка\Contact\Contact.DAL\obj\Debug\net6.0\Contact.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ymkaa\Documents\work\Новая папка\Contact\Contact.DAL\obj\Debug\net6.0\Contact.DAL.AssemblyInfoInputs.cache
+C:\Users\ymkaa\Documents\work\Новая папка\Contact\Contact.DAL\obj\Debug\net6.0\Contact.DAL.AssemblyInfo.cs
+C:\Users\ymkaa\Documents\work\Новая папка\Contact\Contact.DAL\obj\Debug\net6.0\Contact.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ymkaa\Documents\work\Новая папка\Contact\Contact.DAL\obj\Debug\net6.0\Contact.DAL.dll
+C:\Users\ymkaa\Documents\work\Новая папка\Contact\Contact.DAL\obj\Debug\net6.0\refint\Contact.DAL.dll
+C:\Users\ymkaa\Documents\work\Новая папка\Contact\Contact.DAL\obj\Debug\net6.0\Contact.DAL.pdb
+C:\Users\ymkaa\Documents\work\Новая папка\Contact\Contact.DAL\obj\Debug\net6.0\ref\Contact.DAL.dll
+C:\Users\ymkaa\Documents\GitHub\Contact_Manager\Contact\Contact.DAL\bin\Debug\net6.0\Contact.DAL.deps.json
+C:\Users\ymkaa\Documents\GitHub\Contact_Manager\Contact\Contact.DAL\bin\Debug\net6.0\Contact.DAL.dll
+C:\Users\ymkaa\Documents\GitHub\Contact_Manager\Contact\Contact.DAL\bin\Debug\net6.0\Contact.DAL.pdb
+C:\Users\ymkaa\Documents\GitHub\Contact_Manager\Contact\Contact.DAL\obj\Debug\net6.0\Contact.DAL.csproj.AssemblyReference.cache
+C:\Users\ymkaa\Documents\GitHub\Contact_Manager\Contact\Contact.DAL\obj\Debug\net6.0\Contact.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ymkaa\Documents\GitHub\Contact_Manager\Contact\Contact.DAL\obj\Debug\net6.0\Contact.DAL.AssemblyInfoInputs.cache
+C:\Users\ymkaa\Documents\GitHub\Contact_Manager\Contact\Contact.DAL\obj\Debug\net6.0\Contact.DAL.AssemblyInfo.cs
+C:\Users\ymkaa\Documents\GitHub\Contact_Manager\Contact\Contact.DAL\obj\Debug\net6.0\Contact.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ymkaa\Documents\GitHub\Contact_Manager\Contact\Contact.DAL\obj\Debug\net6.0\Contact.DAL.dll
+C:\Users\ymkaa\Documents\GitHub\Contact_Manager\Contact\Contact.DAL\obj\Debug\net6.0\refint\Contact.DAL.dll
+C:\Users\ymkaa\Documents\GitHub\Contact_Manager\Contact\Contact.DAL\obj\Debug\net6.0\Contact.DAL.pdb
+C:\Users\ymkaa\Documents\GitHub\Contact_Manager\Contact\Contact.DAL\obj\Debug\net6.0\ref\Contact.DAL.dll

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "ZeezWftIpmmzNulnfB9ZATP9YcFtkdNe6MTg063QFK0=",
+  "Source": "Contact.UI",
+  "BasePath": "_content/Contact.UI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Contact.UI\\wwwroot",
+      "Source": "Contact.UI",
+      "ContentRoot": "C:\\Users\\ymkaa\\Documents\\GitHub\\Contact_Manager\\Contact\\Contact.UI\\wwwroot\\",
+      "BasePath": "_content/Contact.UI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\ymkaa\\Documents\\GitHub\\Contact_Manager\\Contact\\Contact.UI\\wwwroot\\css\\Style.css",
+      "SourceId": "Contact.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ymkaa\\Documents\\GitHub\\Contact_Manager\\Contact\\Contact.UI\\wwwroot\\",
+      "BasePath": "_content/Contact.UI",
+      "RelativePath": "css/Style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Style.css"
+    },
+    {
+      "Identity": "C:\\Users\\ymkaa\\Documents\\GitHub\\Contact_Manager\\Contact\\Contact.UI\\wwwroot\\Index.html",
+      "SourceId": "Contact.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ymkaa\\Documents\\GitHub\\Contact_Manager\\Contact\\Contact.UI\\wwwroot\\",
+      "BasePath": "_content/Contact.UI",
+      "RelativePath": "Index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Index.html"
+    },
+    {
+      "Identity": "C:\\Users\\ymkaa\\Documents\\GitHub\\Contact_Manager\\Contact\\Contact.UI\\wwwroot\\js\\Main.js",
+      "SourceId": "Contact.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ymkaa\\Documents\\GitHub\\Contact_Manager\\Contact\\Contact.UI\\wwwroot\\",
+      "BasePath": "_content/Contact.UI",
+      "RelativePath": "js/Main.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\Main.js"
+    }
+  ]
+}

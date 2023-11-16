@@ -1,0 +1,30 @@
+C:\Users\ymkaa\Documents\work\Новая папка\Contact\Contact.BLL\bin\Debug\net6.0\Contact.BLL.deps.json
+C:\Users\ymkaa\Documents\work\Новая папка\Contact\Contact.BLL\bin\Debug\net6.0\Contact.BLL.dll
+C:\Users\ymkaa\Documents\work\Новая папка\Contact\Contact.BLL\bin\Debug\net6.0\Contact.BLL.pdb
+C:\Users\ymkaa\Documents\work\Новая папка\Contact\Contact.BLL\bin\Debug\net6.0\Contact.DAL.dll
+C:\Users\ymkaa\Documents\work\Новая папка\Contact\Contact.BLL\bin\Debug\net6.0\Contact.DAL.pdb
+C:\Users\ymkaa\Documents\work\Новая папка\Contact\Contact.BLL\obj\Debug\net6.0\Contact.BLL.csproj.AssemblyReference.cache
+C:\Users\ymkaa\Documents\work\Новая папка\Contact\Contact.BLL\obj\Debug\net6.0\Contact.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ymkaa\Documents\work\Новая папка\Contact\Contact.BLL\obj\Debug\net6.0\Contact.BLL.AssemblyInfoInputs.cache
+C:\Users\ymkaa\Documents\work\Новая папка\Contact\Contact.BLL\obj\Debug\net6.0\Contact.BLL.AssemblyInfo.cs
+C:\Users\ymkaa\Documents\work\Новая папка\Contact\Contact.BLL\obj\Debug\net6.0\Contact.BLL.csproj.CoreCompileInputs.cache
+C:\Users\ymkaa\Documents\work\Новая папка\Contact\Contact.BLL\obj\Debug\net6.0\Contact.BLL.csproj.CopyComplete
+C:\Users\ymkaa\Documents\work\Новая папка\Contact\Contact.BLL\obj\Debug\net6.0\Contact.BLL.dll
+C:\Users\ymkaa\Documents\work\Новая папка\Contact\Contact.BLL\obj\Debug\net6.0\refint\Contact.BLL.dll
+C:\Users\ymkaa\Documents\work\Новая папка\Contact\Contact.BLL\obj\Debug\net6.0\Contact.BLL.pdb
+C:\Users\ymkaa\Documents\work\Новая папка\Contact\Contact.BLL\obj\Debug\net6.0\ref\Contact.BLL.dll
+C:\Users\ymkaa\Documents\GitHub\Contact_Manager\Contact\Contact.BLL\bin\Debug\net6.0\Contact.BLL.deps.json
+C:\Users\ymkaa\Documents\GitHub\Contact_Manager\Contact\Contact.BLL\bin\Debug\net6.0\Contact.BLL.dll
+C:\Users\ymkaa\Documents\GitHub\Contact_Manager\Contact\Contact.BLL\bin\Debug\net6.0\Contact.BLL.pdb
+C:\Users\ymkaa\Documents\GitHub\Contact_Manager\Contact\Contact.BLL\bin\Debug\net6.0\Contact.DAL.dll
+C:\Users\ymkaa\Documents\GitHub\Contact_Manager\Contact\Contact.BLL\bin\Debug\net6.0\Contact.DAL.pdb
+C:\Users\ymkaa\Documents\GitHub\Contact_Manager\Contact\Contact.BLL\obj\Debug\net6.0\Contact.BLL.csproj.AssemblyReference.cache
+C:\Users\ymkaa\Documents\GitHub\Contact_Manager\Contact\Contact.BLL\obj\Debug\net6.0\Contact.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ymkaa\Documents\GitHub\Contact_Manager\Contact\Contact.BLL\obj\Debug\net6.0\Contact.BLL.AssemblyInfoInputs.cache
+C:\Users\ymkaa\Documents\GitHub\Contact_Manager\Contact\Contact.BLL\obj\Debug\net6.0\Contact.BLL.AssemblyInfo.cs
+C:\Users\ymkaa\Documents\GitHub\Contact_Manager\Contact\Contact.BLL\obj\Debug\net6.0\Contact.BLL.csproj.CoreCompileInputs.cache
+C:\Users\ymkaa\Documents\GitHub\Contact_Manager\Contact\Contact.BLL\obj\Debug\net6.0\Contact.BLL.csproj.CopyComplete
+C:\Users\ymkaa\Documents\GitHub\Contact_Manager\Contact\Contact.BLL\obj\Debug\net6.0\Contact.BLL.dll
+C:\Users\ymkaa\Documents\GitHub\Contact_Manager\Contact\Contact.BLL\obj\Debug\net6.0\refint\Contact.BLL.dll
+C:\Users\ymkaa\Documents\GitHub\Contact_Manager\Contact\Contact.BLL\obj\Debug\net6.0\Contact.BLL.pdb
+C:\Users\ymkaa\Documents\GitHub\Contact_Manager\Contact\Contact.BLL\obj\Debug\net6.0\ref\Contact.BLL.dll
